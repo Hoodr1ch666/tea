@@ -398,7 +398,6 @@ button {
 .main-blog__item-content{
    display: flex;
    flex-direction: column;
-   
 }
 .main-blog__item-title{
    font-family: 'Cormorant', serif;
@@ -671,7 +670,7 @@ button {
    .reviews__item {
       flex-basis: 100%;
    }
-
+/* посмотреть сюда */
    .reviews__item:last-child,
    .reviews__item:first-child {
       display: none;
